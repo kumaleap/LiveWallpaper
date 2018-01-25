@@ -1,2 +1,2 @@
 # DTWallpaper
-动态墙纸
+动态壁纸
