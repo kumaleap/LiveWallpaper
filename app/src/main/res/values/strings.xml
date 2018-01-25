@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">DTWallpaper</string>
+    <string name="app_name">动态壁纸</string>
+    <string name="camera">相机壁纸</string>
+    <string name="video">视频壁纸</string>
 </resources>
